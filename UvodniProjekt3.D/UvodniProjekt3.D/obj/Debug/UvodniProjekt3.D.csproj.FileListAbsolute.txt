@@ -1,0 +1,8 @@
+C:\Users\LaPeM\source\repos\UvodniProjekt3.D\UvodniProjekt3.D\bin\Debug\UvodniProjekt3.D.exe.config
+C:\Users\LaPeM\source\repos\UvodniProjekt3.D\UvodniProjekt3.D\bin\Debug\UvodniProjekt3.D.exe
+C:\Users\LaPeM\source\repos\UvodniProjekt3.D\UvodniProjekt3.D\bin\Debug\UvodniProjekt3.D.pdb
+C:\Users\LaPeM\source\repos\UvodniProjekt3.D\UvodniProjekt3.D\obj\Debug\UvodniProjekt3.D.csproj.AssemblyReference.cache
+C:\Users\LaPeM\source\repos\UvodniProjekt3.D\UvodniProjekt3.D\obj\Debug\UvodniProjekt3.D.csproj.SuggestedBindingRedirects.cache
+C:\Users\LaPeM\source\repos\UvodniProjekt3.D\UvodniProjekt3.D\obj\Debug\UvodniProjekt3.D.csproj.CoreCompileInputs.cache
+C:\Users\LaPeM\source\repos\UvodniProjekt3.D\UvodniProjekt3.D\obj\Debug\UvodniProjekt3.D.exe
+C:\Users\LaPeM\source\repos\UvodniProjekt3.D\UvodniProjekt3.D\obj\Debug\UvodniProjekt3.D.pdb
